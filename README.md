@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cmxnono
-- 👀 I’m interested in crazy thins.
-- 🌱 I’m currently focus on AR/VR and Deeplearning.
-- 💞️ I’m looking to collaborate on hardware/software/product related to XR field.
+- 👀 I’m interested in crazy things.
+- 🌱 I’m currently focusing on AR/VR and Deep Learning.
+- 💞️ I’m looking to collaborate on hardware/software/products related to the XR field.
 - 📫 Weclcom to communicate with me by email: cmxnono@icloud.com
 
 <!---
